@@ -1,16 +1,16 @@
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 Versatile
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 Fault Tolerant
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 Caching
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 Example of Tools:
 
@@ -23,4 +23,4 @@ Example of Tools:
 CrewAI can use all Langchain Tools!
 
 out of the box tools:
-![alt text](image-6.png)
+![alt text](images/image-6.png)

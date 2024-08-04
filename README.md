@@ -11,4 +11,4 @@ Agents work better if they have
 - Guardrails
 - Memory
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)

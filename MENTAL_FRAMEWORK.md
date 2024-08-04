@@ -4,7 +4,7 @@ what is the goal
 what is the process
 
 -> what people would i hire to achieve the task
-![alt text](image.png)
+![alt text](images/image.png)
 
 after answering this you know which agents you need
 
