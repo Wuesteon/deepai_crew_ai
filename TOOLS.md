@@ -1,3 +1,7 @@
+## Tools
+
+its important to keep the tools versatile, fault-tolerant and that they use caching.
+
 ![alt text](images/image-2.png)
 
 Versatile
