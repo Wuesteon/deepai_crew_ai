@@ -12,3 +12,5 @@ Agents work better if they have
 - Memory
 
 ![alt text](images/image-1.png)
+
+![alt text](images/multi_crew.png)
